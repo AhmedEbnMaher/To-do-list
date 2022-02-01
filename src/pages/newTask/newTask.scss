@@ -1,0 +1,12 @@
+@import'../../assets/scss/variables.scss';
+.new-task-wrapper{
+.label-width{
+    width: 130px;
+}
+.button-color-bc{
+    background-color: $task-main-color;
+}
+.button-color-bc:hover{
+    background-color: $task-main-color;
+}
+}

@@ -1,0 +1,28 @@
+@import '../../assets/scss/variables.scss';
+.main-content{
+
+height: 100%;
+width: 100%;
+
+
+}
+.inner-content{
+    background-color: $layout-background;
+    height: 100%;
+    width: 100%;
+   
+}
+.cards-content{
+    position: relative;
+     padding: 20px;
+}
+.card-inner-content .scrollable {
+    padding: 10px;
+    height: 87vh;
+    overflow-y: auto;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none;
+  }
+  .card-inner-content .scrollable::-webkit-scrollbar {
+    display: none;
+  }
