@@ -1,0 +1,176 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "build new web form",
+      "description": "new form that enable us to build more than one element at the same time",
+      "priority": "high",
+      "responsable": "Ahmed Maher",
+      "startDate": 1643684574000,
+      "endDate": 1643943774000,
+      "status": "to-do"
+    },
+    {
+      "id": 2,
+      "name": "create online store",
+      "description": "new form that enable us shopping online",
+      "priority": "medium",
+      "responsable": "Mohamed Ahmed",
+      "startDate": 1644030174000,
+      "endDate": 1644202974000,
+      "status": "Done"
+    },
+    {
+      "id": 3,
+      "name": "build database",
+      "description": "new form that enable us to build more than one element at the same time",
+      "priority": "high",
+      "responsable": "Saad Ezat",
+      "startDate": 1644202974000,
+      "endDate": 1644462174000,
+      "status": "in progress"
+    },
+    {
+      "id": 4,
+      "name": "start unit testing",
+      "description": "new form that enable us shopping online uurhgjhg hgdsjhfdj ugehgfgf gehfgff ufgwghgf  ",
+      "priority": "medium",
+      "status": "to-do",
+      "startDate": 1644462174000,
+      "endDate": 1644721374000,
+      "responsable": "moahmed Essam"
+    },
+    {
+      "id": 5,
+      "name": "build new web form",
+      "description": "new form that enable us to build more than one element at the same time",
+      "priority": "high",
+      "status": "in progress",
+      "startDate": 1644721374000,
+      "endDate": 1644894174000,
+      "responsable": "mahmoud ali"
+    },
+    {
+      "id": 6,
+      "name": "create search input",
+      "description": "new form that enable us shopping online",
+      "priority": "medium",
+      "status": "to-do",
+      "startDate": 1644894174000,
+      "endDate": 1645066974000,
+      "responsable": "Ebdo Mohamed"
+    },
+    {
+      "id": 7,
+      "name": "build social site",
+      "description": "new form that enable us to build more than one element at the same time",
+      "priority": "high",
+      "status": "Done",
+      "startDate": 1645066974000,
+      "endDate": 1645412574000,
+      "responsable": "Ahmed Said"
+    },
+    {
+      "id": 8,
+      "name": "start side menu",
+      "description": "new form that enable us shopping online guehfj heuh euhehdehf",
+      "priority": "high",
+      "status": "in progress",
+      "startDate": 1645412574000,
+      "endDate": 1645585374000,
+      "responsable": "Mohamed Ahmed"
+    },
+    {
+      "id": 9,
+      "name": "build header",
+      "description": "new form that enable us shopping onlinf grehsghj gerhghjfh gfhegfhs ",
+      "priority": "medium",
+      "status": "to-do",
+      "startDate": 1645585374000,
+      "endDate": 1645930974000,
+      "responsable": "Amr Ahmed"
+    },
+    {
+      "id": 10,
+      "name": "design landing page",
+      "description": "new form that enable us to build more than one element afjjf hgurewjhje jhtewhrj",
+      "priority": "low",
+      "status": "Done",
+      "startDate": 1645930974000,
+      "endDate": 1646103774000,
+      "responsable": "mohamed Ali"
+    },
+    {
+      "name": "hotel website",
+      "description": "jjdfj sbadjsfbnj hjfgdhk",
+      "status": "in progress",
+      "startDate": 1646020023000,
+      "endDate": 1646452023000,
+      "responsable": "Ahmed Maher",
+      "priority": "high",
+      "id": 11
+    },
+    {
+      "name": "taske",
+      "description": "ffrfjgwejkertjgg",
+      "status": "in progress",
+      "startDate": 1642395780000,
+      "endDate": 1646452023000,
+      "responsable": "Mohamed Ahmed",
+      "priority": "low",
+      "id": 12
+    },
+    {
+      "name": "edit navbar",
+      "description": "jnjfnkdsg bqefjdmfnk nweAMSFNM",
+      "status": "to-do",
+      "startDate": 1638335283000,
+      "endDate": 1641791283000,
+      "responsable": "Mohamed Ahmed",
+      "priority": "low",
+      "id": 13
+    }
+  ],
+  "priorities": [
+    {
+      "value": 1,
+      "label": "high"
+    },
+    {
+      "value": 2,
+      "label": "low"
+    },
+    {
+      "value": 3,
+      "label": "medium"
+    }
+  ],
+  "responsables": [
+    {
+      "value": 1,
+      "label": "Ahmed Maher"
+    },
+    {
+      "value": 2,
+      "label": "Mohamed Ahmed"
+    },
+    {
+      "value": 3,
+      "label": "Ali Mohamed"
+    }
+  ],
+  "status": [
+    {
+      "value": 1,
+      "label": "in progress"
+    },
+    {
+      "value": 2,
+      "label": "to-do"
+    },
+    {
+      "value": 3,
+      "label": "Done"
+    }
+  ]
+}
