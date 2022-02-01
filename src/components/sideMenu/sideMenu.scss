@@ -1,0 +1,16 @@
+@import '../../assets/scss/variables.scss';
+.side-menu{
+    background-color:$task-headline-background;
+    height: 600px;
+    width: 295px;
+    color: $task-headline-background;
+    font-size: 13px;
+    .title{
+        font-weight: bold;
+    }
+    .side-menu-content{
+        background-color: $layout-background;
+        border-radius: 10px;
+        padding:10px ;
+    }
+}
