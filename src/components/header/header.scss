@@ -1,0 +1,19 @@
+@import'../../assets/scss/variables.scss';
+.header{
+    background: $task-main-color;
+    height: 80px;
+   text-align: center;
+   margin-top: 0;
+   border-bottom: 1px solid $task-secondary-color;
+.title{
+    margin: auto;
+    
+}
+.page-title{
+    position: relative;
+    top: 10px;
+    color: $task-secondary-color;
+    font-weight:400;
+    font-size: 25px;
+}
+}

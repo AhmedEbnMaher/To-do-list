@@ -1,0 +1,70 @@
+@import'../../assets/scss/variables.scss';
+.todos-wrapper{
+  margin-bottom: 100px;
+  .icon-style{
+    font-size: 53px;
+    color:$main-icons-color;
+    border: none;
+    background-color: transparent;
+  }
+  .icon-active-style{
+    font-size: 53px;
+    color:$task-main-color;
+    border: none;
+    background-color: transparent;
+
+  }
+.card-task{  
+    background-color:transparent !important;
+    border: none;
+
+   
+    .card-body{
+        background-color: $task-secondary-color; 
+        border-radius: 10px;
+        margin-top: 20px;
+        width: 270px;
+       height: 300px;
+       
+       }
+       .tog-button{
+         cursor: pointer;
+       }
+       .head-title{
+         background-color: lightgrey;
+         width: 100%;
+         padding: 5px;
+       }
+       .menu-content{
+        margin-top: 40px;
+        
+       }
+       .card-badge{
+           background-color: $task-headline-background;
+           color: $task-secondary-color;
+           border-radius: 10px 10px 0 0;
+           padding: 10px;  
+           width: 100%;     
+       }
+       .card-description{
+         background-color:$task-headline-background;
+         padding: 8px;
+         color: $task-secondary-color;
+         height: 57px;
+         font-size: 12px;
+         margin-top: 20px;
+         border-radius:  0 0 10px 10px;
+        
+       }
+       .cursor-pointer{
+         cursor: pointer;
+      
+       }
+       .date-style{
+         font-size: 12px;
+      
+      
+       }
+    
+}
+}

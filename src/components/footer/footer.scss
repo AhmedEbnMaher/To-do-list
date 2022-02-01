@@ -1,0 +1,30 @@
+@import '../../assets/scss/variables.scss';
+.footer{
+ height:70px;   
+ background-color:$task-secondary-color;
+ position:fixed;
+ box-shadow: 1px 1px 1px 1px rgb(61, 60, 60);
+ width:100%;
+  bottom: 0;
+
+}
+.footer ul{
+    list-style-type: none;
+    display: flex;
+    top:200px;
+    justify-content: space-between;
+    color: $main-icons-color;
+    font-size: 11px;
+}
+.footer li{
+    text-align: center;
+    cursor: pointer;
+}
+.icon-list{
+   font-size: 25px;
+}
+
+.active{
+    color:$task-main-color;
+    border-top: 2px solid $task-main-color;
+}
