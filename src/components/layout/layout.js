@@ -5,7 +5,6 @@ import Footer from '../footer/footer'
 import Header from '../header/header'
 import SideMenue from '../sideMenu/sideMenu'
 
-import './layout.scss'
 export class Layout extends Component {
   constructor(props) {
     super(props)
