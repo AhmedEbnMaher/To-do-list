@@ -52,7 +52,7 @@ if(taskPriority!==''&&taskResposable !==''&&taskStatus!==''&&taskName!==''&&task
 
   return (
 <div className='new-task-wrapper'>
-<Row className='w-100'>
+<Row className='new-task-wrapper-content w-100'>
               <Col lg="12">
                 <Card >
                   <CardBody>
